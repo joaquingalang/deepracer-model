@@ -1,4 +1,4 @@
-# Deepracer Model 🏎️ 🧠
+# 🏎️ Deepracer Model 🧠
 
 The following repository stores a trained AWS Deepracer model. 
 
